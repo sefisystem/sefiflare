@@ -1,6 +1,5 @@
-[build]
-  command = ""
-  destination = "public"
+name = "sefi"
+compatibility_date = "2026-06-24"
 
-[build.environment]
-  NODE_VERSION = "18"
+[assets]
+directory = "./"
